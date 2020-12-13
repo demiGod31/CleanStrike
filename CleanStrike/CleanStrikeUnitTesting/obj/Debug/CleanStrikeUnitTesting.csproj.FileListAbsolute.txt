@@ -1,0 +1,9 @@
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\bin\Debug\CleanStrikeUnitTesting.dll
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\bin\Debug\CleanStrikeUnitTesting.pdb
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\bin\Debug\CleanStrike.exe
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\bin\Debug\CleanStrike.pdb
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\bin\Debug\CleanStrike_Accessor.exe
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\bin\Debug\CleanStrike_Accessor.pdb
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\obj\Debug\CleanStrikeUnitTesting.csprojResolveAssemblyReference.cache
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\obj\Debug\CleanStrikeUnitTesting.dll
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrikeUnitTesting\obj\Debug\CleanStrikeUnitTesting.pdb

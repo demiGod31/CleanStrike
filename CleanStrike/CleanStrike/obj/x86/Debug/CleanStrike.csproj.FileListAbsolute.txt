@@ -1,0 +1,5 @@
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrike\bin\Debug\CleanStrike.exe
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrike\bin\Debug\CleanStrike.pdb
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrike\obj\x86\Debug\CleanStrike.exe
+c:\users\jayanta\documents\visual studio 2010\Projects\CleanStrike\CleanStrike\obj\x86\Debug\CleanStrike.pdb
+C:\Users\Jayanta\Documents\Visual Studio 2010\Projects\CleanStrike\CleanStrike\obj\x86\Debug\CleanStrike.csprojResolveAssemblyReference.cache
